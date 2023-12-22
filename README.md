@@ -1,6 +1,3 @@
-Certainly! Here's the updated version of your README, including the additional instructions and the API usage section:
-
-```markdown
 # URL Shortener Project 🚀
 
 A simple URL shortener project built with React and Node.js.
@@ -114,6 +111,6 @@ Contributions are welcome! Follow these steps:
 ## License 📜
 
 This project is licensed under the [MIT License](LICENSE).
-```
+
 
 This README now includes sections for frontend and backend usage, as well as a placeholder for API usage instructions. Make sure to replace the placeholders with the actual content once you have the details for API usage and implementation.

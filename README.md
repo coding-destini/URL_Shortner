@@ -9,10 +9,6 @@ A simple URL shortener project built with React and Node.js.
 - [Usage](#usage)
   - [Frontend](#frontend)
   - [Backend](#backend)
-- [API Usage](#api-usage)
-  - [Simple Guide for API Usage](#simple-guide-for-api-usage)
-  - [Explanation of Key Functionalities and Implementation](#explanation-of-key-functionalities-and-implementation)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -86,17 +82,6 @@ A simple URL shortener project built with React and Node.js.
    ```bash
    npm start
    ```
-
-## API Usage 🛠️
-
-### Simple Guide for API Usage
-
-- Provide a step-by-step guide on how to use the API.
-
-### Explanation of Key Functionalities and Implementation
-
-- Discuss the main functionalities of your API and explain their implementation details.
-
 
 ## Contributing 🤝
 

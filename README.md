@@ -1,4 +1,4 @@
-
+Certainly! Here's the updated version of your README, including the additional instructions and the API usage section:
 
 ```markdown
 # URL Shortener Project 🚀
@@ -10,6 +10,11 @@ A simple URL shortener project built with React and Node.js.
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+  - [Frontend](#frontend)
+  - [Backend](#backend)
+- [API Usage](#api-usage)
+  - [Simple Guide for API Usage](#simple-guide-for-api-usage)
+  - [Explanation of Key Functionalities and Implementation](#explanation-of-key-functionalities-and-implementation)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
@@ -43,23 +48,58 @@ A simple URL shortener project built with React and Node.js.
 
 ## Usage 🚀
 
-1. Run the backend server:
+### Frontend
+
+1. Go to the frontend directory:
 
    ```bash
-   npm run server
+   cd frontend
    ```
 
-2. Run the frontend:
+2. Install frontend dependencies:
 
    ```bash
-   npm run start
+   npm install
    ```
 
-3. Open your browser and go to [http://localhost:3000](http://localhost:3000).
+3. Start the frontend:
 
-## Screenshots 📷
+   ```bash
+   npm start
+   ```
 
-- Include screenshots or GIFs of your application in action.
+4. Open your browser and go to [http://localhost:5173](http://localhost:5173).
+
+### Backend
+
+1. Go to the backend directory:
+
+   ```bash
+   cd backend
+   ```
+
+2. Install backend dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Start the backend:
+
+   ```bash
+   npm start
+   ```
+
+## API Usage 🛠️
+
+### Simple Guide for API Usage
+
+- Provide a step-by-step guide on how to use the API.
+
+### Explanation of Key Functionalities and Implementation
+
+- Discuss the main functionalities of your API and explain their implementation details.
+
 
 ## Contributing 🤝
 
@@ -76,4 +116,4 @@ Contributions are welcome! Follow these steps:
 This project is licensed under the [MIT License](LICENSE).
 ```
 
-Feel free to customize it further based on your project's specific details and requirements.
+This README now includes sections for frontend and backend usage, as well as a placeholder for API usage instructions. Make sure to replace the placeholders with the actual content once you have the details for API usage and implementation.

@@ -13,7 +13,7 @@ const Dashboard = () => {
     try {
       const token = localStorage.getItem('token');
 
-      const response = await axios.post('https://urlshortner-hr2j.onrender.com/url/shorten', { originalUrl: urlInput }, {
+      const response = await axios.post('http://localhost:3000/url/shorten', { originalUrl: urlInput }, {
         headers: {
           Authorization: token,
         },

@@ -10,7 +10,7 @@ const SignUp = () => {
     event.preventDefault();
 
     try {
-      const response = await axios.post('https://urlshortner-hr2j.onrender.com/user/register', newUser);
+      const response = await axios.post('http://localhost:3000/user/register', newUser);
       console.log('User registered successfully:', response.data);
       toast.success('User Created Successfully')
     } catch (error) {
